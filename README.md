@@ -6,7 +6,9 @@ Based on C#
 * Azure Computer Vision SUB
 
 ## How to use:
+
+* Open ***OCRApp.sln*** with VS2017
+
 * Following ***TODO*** 
 
 * Strike ***F5*** to build & run
-
