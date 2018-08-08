@@ -1,0 +1,1 @@
+C:\Users\catsfood\source\repos\OCRApp\OCRApp\OCRApp.csproj;x64
